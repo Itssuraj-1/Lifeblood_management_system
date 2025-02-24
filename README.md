@@ -10,7 +10,7 @@ User-friendly web interface
 ```
 2.🛠 Requirements
 XAMPP (for Apache & MySQL)
-PHP installed on your system
+PHP installed on your system 
 MySQL Database
 ```
 ```
