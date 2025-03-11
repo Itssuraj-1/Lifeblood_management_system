@@ -3,7 +3,7 @@ The Blood Management System is a web-based application built with PHP and JavaSc
 ```   
 1.📌 Features
 Manage donor and recipient records
-Track blood inventory by blood type
+Track blood inventory by blood type 
 Search and filter donors efficiently
 User-friendly web interface
 ```
